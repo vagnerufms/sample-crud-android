@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">Demo SQLite App</string>
+    <string name="search_hint">Search Keyword</string>
+
+    <!-- dummy string -->
+    <string name="dummy_string">Dummy</string>
+
+    <!-- form main activity -->
+    <string name="action_btn_add_product">Product</string>
+    <string name="action_btn_add_customer">Customer</string>
+    <string name="action_btn_add_pos">P O S</string>
+
+    <!-- form common -->
+    <string name="form_button_file_selector">Browse</string>
+    <string name="form_button_camera">Camera</string>
+
+    <!-- form common navigation -->
+    <string name="action_setting">Setting</string>
+    <string name="action_search">Search</string>
+    <string name="action_add">Add</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_browse_file">Browse File</string>
+
+    <!-- Form Product -->
+    <string name="product_form_code">Code</string>
+    <string name="product_form_description">Description</string>
+    <string name="product_form_price">Price</string>
+    <string name="product_form_quantity">Quantity</string>
+
+    <!-- error message -->
+    <string name="message_success_save">Success Save Data</string>
+    <string name="message_error_empty">%1$s can\'t empty</string>
+    <string name="message_error_already_exists">%1$s already exists</string>
+
+</resources>
